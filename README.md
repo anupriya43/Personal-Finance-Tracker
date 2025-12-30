@@ -1,4 +1,4 @@
-# Personal Finance Tracker
+# Finance Tracker
 
 A **Python-based Personal Finance Tracker** that helps users record, manage, and analyze their daily income and expenses.  
 The application allows users to categorize transactions, calculate total balance, and store financial data for future reference.
@@ -47,4 +47,4 @@ The application is **menu-driven**, easy to use, and stores data persistently us
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/anupriya43/Personal-Finance-Tracker.git
+   git clone https://github.com/anupriya43/Finance-Tracker.git
