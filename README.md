@@ -41,10 +41,3 @@ The application is **menu-driven**, easy to use, and stores data persistently us
 3. Data is stored in a file for future use  
 4. Application calculates totals and displays results  
 
----
-
-## ▶️ How to Run the Project
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/anupriya43/Personal-Finance-Tracker.git
